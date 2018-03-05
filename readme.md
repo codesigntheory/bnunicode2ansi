@@ -3,6 +3,12 @@
 A unicode to ANSI (Text encoding used by Bijoy) Bengali text converter.
 
 
+### Installation
+
+```bash
+npm insall codesigntheory/bnunicode2ansi
+```
+
 ### Usage
 
 Import and use. `bnUnicode2ANSI` is the function you need.
