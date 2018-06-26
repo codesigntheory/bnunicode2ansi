@@ -1,3 +1,6 @@
+# Warning!!!
+This repository is moved to [https://gitlab.com/codesigntheory/bnunicode2ansi](https://gitlab.com/codesigntheory/bnunicode2ansi)
+
 # bnUnicode2ANSI
 
 A unicode to ANSI (Text encoding used by Bijoy) Bengali text converter.
